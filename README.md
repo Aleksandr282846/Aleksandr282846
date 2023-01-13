@@ -4,3 +4,4 @@
 
 ![Logos](https://github.com/Aleksandr282846/Aleksandr282846/blob/main/assets/Evmos.png)
 ![Logos](https://github.com/Aleksandr282846/Aleksandr282846/blob/main/assets/Kyve.png)
+![Logos](https://github.com/Aleksandr282846/Aleksandr282846/blob/main/assets/Masa.png)
